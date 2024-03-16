@@ -1,0 +1,24 @@
+[
+    {
+        "1_67": {
+            "Auton Amp": "10",
+            "Auton Cross Line": "true",
+            "Auton Speaker Made": "10",
+            "Auton Speaker Misses": "2",
+            "Auton Start Pose": "Human Player Station",
+            "Endgame Climb Attempt": "true",
+            "Endgame Defended Against": "false",
+            "Endgame Defense Time": "0",
+            "Endgame End Pose": "Hang",
+            "Endgame Time To Climb": "10",
+            "Endgame Trap Note": "true",
+            "Match Number": "1",
+            "Notes": "cool",
+            "Team Number": "67",
+            "Teleop Amps": "5",
+            "Teleop Preferred Shooting Pose": "Point Blank",
+            "Teleop Speaker Made": "3",
+            "Teleop Speaker Misses": "1"
+        }
+    }
+]
